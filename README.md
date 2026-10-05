@@ -1,7 +1,7 @@
 <img width="2160" height="368" alt="DynamicEngine3D logo - Transparent" src="https://github.com/user-attachments/assets/04720a50-5a18-465d-86be-0974ba1e3e62" />
 
 **DynamicEngine3D-Android**
-DynamicEngine3D-Android is a soft-body physics engine built using the XPBD (Extended Position-Based Dynamics) framework with the help of AI. It allows for the simulation of deformable objects in 3D space, offering realistic interactions and stable behavior for soft bodies in real-time applications for Android. It is built specifically for Krumpl3D
+DynamicEngine3D-Android is a soft-body physics engine built using the XPBD (Extended Position-Based Dynamics) framework with the help of AI. It allows for the simulation of deformable objects in 3D space, offering realistic interactions and stable behavior for soft bodies in real-time applications for Android. It is built specifically for the vehicle simulator Krumpl3D
 
 ## Usage:
 Used for Car, Jelly, Metal deformation
